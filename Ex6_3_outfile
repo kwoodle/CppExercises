@@ -1,0 +1,39 @@
+Starting Loop for imax = 100000	 mode = debug
+221699 nanoseconds passed.
+out = 704982704
+Starting Loop for imax = 100000	 mode = debug
+218873 nanoseconds passed.
+out = 704982704
+Starting Loop for imax = 100000	 mode = debug
+261355 nanoseconds passed.
+out = 704982704
+Starting Loop for imax = 100000	 mode = release
+7352 nanoseconds passed.
+out = 704982704
+Starting Loop for imax = 100000	 mode = release
+22023 nanoseconds passed.
+out = 704982704
+Starting Loop for imax = 100000	 mode = release
+12052 nanoseconds passed.
+out = 704982704
+Starting Loop for imax = 100000	 mode = release
+21102 nanoseconds passed.
+out = 704982704
+Starting Loop for imax = 100000	 mode = release
+21510 nanoseconds passed.
+out = 704982704
+Starting Loop for imax = 100000	 mode = release
+12279 nanoseconds passed.
+out = 704982704
+Starting Loop for imax = 100000	 mode = debug
+224848 nanoseconds passed.
+out = 704982704
+Starting Loop for imax = 100000	 mode = debug
+215824 nanoseconds passed.
+out = 704982704
+Starting Loop for imax = 100000	 mode = debug
+234811 nanoseconds passed.
+out = 704982704
+Starting Loop for imax = 100000	 mode = debug
+223050 nanoseconds passed.
+out = 704982704
